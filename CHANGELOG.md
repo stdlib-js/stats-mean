@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`2192360`](https://github.com/stdlib-js/stdlib/commit/21923606030eb12678894c265023c6d265a89968) - **test:** explicitly serialize dtypes to strings _(by Athan Reines)_
 -   [`e6b2007`](https://github.com/stdlib-js/stdlib/commit/e6b200700c411f81de9a89334950f57099971014) - **docs:** update examples _(by Athan Reines)_
 -   [`0144b30`](https://github.com/stdlib-js/stdlib/commit/0144b30de33a67c27535f1a6da5c9e0ff4ace570) - **style:** use consistent markup _(by Athan Reines)_
 -   [`10a26a3`](https://github.com/stdlib-js/stdlib/commit/10a26a3ff404b828cdd5426fc3d657ae13edd980) - **docs:** update copy _(by Athan Reines)_
