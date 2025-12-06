@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-03)
+## Unreleased (2025-12-06)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`8be43b3`](https://github.com/stdlib-js/stdlib/commit/8be43b3489187f60926783d3936fb8003f2a8b9a) - **docs:** update examples in `stats/mean` [(#8823)](https://github.com/stdlib-js/stdlib/pull/8823) _(by Sachin Pangal)_
 -   [`2192360`](https://github.com/stdlib-js/stdlib/commit/21923606030eb12678894c265023c6d265a89968) - **test:** explicitly serialize dtypes to strings _(by Athan Reines)_
 -   [`e6b2007`](https://github.com/stdlib-js/stdlib/commit/e6b200700c411f81de9a89334950f57099971014) - **docs:** update examples _(by Athan Reines)_
 -   [`0144b30`](https://github.com/stdlib-js/stdlib/commit/0144b30de33a67c27535f1a6da5c9e0ff4ace570) - **style:** use consistent markup _(by Athan Reines)_
@@ -50,10 +51,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gururaj Gurram
+-   Sachin Pangal
 
 </section>
 
