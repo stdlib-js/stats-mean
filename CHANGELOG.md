@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`4b1efc6`](https://github.com/stdlib-js/stdlib/commit/4b1efc6552af03e1b7d260f6f10e7e042e7d68f6) - **docs:** update dtype type _(by Athan Reines)_
 -   [`ff435c0`](https://github.com/stdlib-js/stdlib/commit/ff435c01d291e9ef75429a026fb221b729aa4a07) - **docs:** update dtype type _(by Athan Reines)_
 -   [`e23bad7`](https://github.com/stdlib-js/stdlib/commit/e23bad75d0635153bd643441192b3d3817bc33f3) - **docs:** update return annotations to use ndarray instance notation for `stats/mean` [(#9092)](https://github.com/stdlib-js/stdlib/pull/9092) _(by Pratik, Athan Reines)_
 -   [`8be43b3`](https://github.com/stdlib-js/stdlib/commit/8be43b3489187f60926783d3936fb8003f2a8b9a) - **docs:** update examples in `stats/mean` [(#8823)](https://github.com/stdlib-js/stdlib/pull/8823) _(by Sachin Pangal)_
