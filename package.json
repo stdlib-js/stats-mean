@@ -42,7 +42,8 @@
     "@stdlib/stats-base-ndarray-dmean": "github:stdlib-js/stats-base-ndarray-dmean#main",
     "@stdlib/stats-base-ndarray-mean": "github:stdlib-js/stats-base-ndarray-mean#main",
     "@stdlib/stats-base-ndarray-smean": "github:stdlib-js/stats-base-ndarray-smean#main",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-zeros": "^0.2.2",
