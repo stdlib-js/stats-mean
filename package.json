@@ -42,7 +42,8 @@
     "@stdlib/stats-base-ndarray-dmean": "^0.1.0",
     "@stdlib/stats-base-ndarray-mean": "^0.1.0",
     "@stdlib/stats-base-ndarray-smean": "^0.1.0",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-zeros": "^0.2.2",
